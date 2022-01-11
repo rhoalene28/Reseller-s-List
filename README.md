@@ -18,5 +18,4 @@ that contains  'id','fname','mname','lname','age','gender','bio'
 ,'type','tax','year','active'.
 Error:
 Ive encounterex some error since Codeigniter 4 is a beta. I think the error in styling
-has a connection with it. I used an Inline Styling since the css or external 
-styling is not working.
+has a connection with it. I used an Inline Styling.
